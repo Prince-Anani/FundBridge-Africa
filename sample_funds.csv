@@ -1,0 +1,3 @@
+fund_id,fund_name,opening_cash,restriction,eligible_categories
+UNR,Unrestricted operating cash,5000,unrestricted,*
+YOUTH,Youth programme grant,2000,restricted,"coaching,equipment,events,transport"

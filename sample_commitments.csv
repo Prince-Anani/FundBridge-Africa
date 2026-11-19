@@ -1,0 +1,5 @@
+fund_id,description,amount,due_date,category,priority
+UNR,Core administration,1200,2026-12-20,administration,essential
+YOUTH,Coach stipends,5000,2026-12-22,coaching,essential
+YOUTH,Equipment,6000,2027-01-10,equipment,deferrable
+YOUTH,Regional event,9000,2027-01-25,events,discretionary
